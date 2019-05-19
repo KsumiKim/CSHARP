@@ -1,0 +1,16 @@
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Database.Step3.UnitTest.dll
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Database.Step3.UnitTest.pdb
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Database.Step3.Data.dll
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Database.Step3.Data.pdb
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\obj\Debug\Database.Step3.UnitTest.csproj.CoreCompileInputs.cache
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\obj\Debug\Database.Step3.UnitTest.csproj.CopyComplete
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\obj\Debug\Database.Step3.UnitTest.dll
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\obj\Debug\Database.Step3.UnitTest.pdb
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.UnitTest\obj\Debug\Database.Step3.UnitTest.csprojAssemblyReference.cache

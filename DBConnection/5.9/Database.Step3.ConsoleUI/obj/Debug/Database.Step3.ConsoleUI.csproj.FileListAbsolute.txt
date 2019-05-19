@@ -1,0 +1,10 @@
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\bin\Debug\Database.Step3.ConsoleUI.exe.config
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\bin\Debug\Database.Step3.ConsoleUI.exe
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\bin\Debug\Database.Step3.ConsoleUI.pdb
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\bin\Debug\Database.Step3.Data.dll
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\bin\Debug\Database.Step3.Data.pdb
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\obj\Debug\Database.Step3.ConsoleUI.csproj.CoreCompileInputs.cache
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\obj\Debug\Database.Step3.ConsoleUI.csproj.CopyComplete
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\obj\Debug\Database.Step3.ConsoleUI.exe
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\obj\Debug\Database.Step3.ConsoleUI.pdb
+D:\sync\402R\sources\Chsarp\Database\Database.Step3.ConsoleUI\obj\Debug\Database.Step3.ConsoleUI.csprojAssemblyReference.cache
