@@ -1,6 +1,0 @@
-D:\sync\402R\sources\Chsarp\Database\Database.Step3.Data\bin\Debug\Database.Step3.Data.dll
-D:\sync\402R\sources\Chsarp\Database\Database.Step3.Data\bin\Debug\Database.Step3.Data.pdb
-D:\sync\402R\sources\Chsarp\Database\Database.Step3.Data\obj\Debug\Database.Step3.Data.csprojAssemblyReference.cache
-D:\sync\402R\sources\Chsarp\Database\Database.Step3.Data\obj\Debug\Database.Step3.Data.csproj.CoreCompileInputs.cache
-D:\sync\402R\sources\Chsarp\Database\Database.Step3.Data\obj\Debug\Database.Step3.Data.dll
-D:\sync\402R\sources\Chsarp\Database\Database.Step3.Data\obj\Debug\Database.Step3.Data.pdb

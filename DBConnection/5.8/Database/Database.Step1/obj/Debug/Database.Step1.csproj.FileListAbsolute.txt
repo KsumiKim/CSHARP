@@ -1,7 +1,0 @@
-D:\sync\402R\sources\Chsarp\Database\Database.Step1\bin\Debug\Database.Step1.exe.config
-D:\sync\402R\sources\Chsarp\Database\Database.Step1\bin\Debug\Database.Step1.exe
-D:\sync\402R\sources\Chsarp\Database\Database.Step1\bin\Debug\Database.Step1.pdb
-D:\sync\402R\sources\Chsarp\Database\Database.Step1\obj\Debug\Database.Step1.csprojAssemblyReference.cache
-D:\sync\402R\sources\Chsarp\Database\Database.Step1\obj\Debug\Database.Step1.csproj.CoreCompileInputs.cache
-D:\sync\402R\sources\Chsarp\Database\Database.Step1\obj\Debug\Database.Step1.exe
-D:\sync\402R\sources\Chsarp\Database\Database.Step1\obj\Debug\Database.Step1.pdb
