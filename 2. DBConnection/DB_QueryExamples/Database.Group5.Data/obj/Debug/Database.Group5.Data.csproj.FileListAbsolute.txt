@@ -1,0 +1,48 @@
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\bin\Debug\Database.Group5.Data.dll.config
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\bin\Debug\Database.Group5.Data.dll
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\bin\Debug\Database.Group5.Data.pdb
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\bin\Debug\EntityFramework.dll
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\bin\Debug\EntityFramework.xml
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\obj\Debug\Database.Group5.Data.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\obj\Debug\Database.Group5.Data.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\obj\Debug\Database.Group5.Data.csproj.CopyComplete
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\obj\Debug\Database.Group5.Data.dll
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database.Group5.Data\obj\Debug\Database.Group5.Data.pdb
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\Database.Group5.Data.dll.config
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\Database.Group5.Data.dll
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\Database.Group5.Data.pdb
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.dll
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.xml
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.csprojAssemblyReference.cache
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.csproj.CoreCompileInputs.cache
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.csproj.CopyComplete
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.dll
+C:\git\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.pdb
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\Database.Group5.Data.dll.config
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\Database.Group5.Data.dll
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\Database.Group5.Data.pdb
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.dll
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.xml
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.csprojAssemblyReference.cache
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.csproj.CoreCompileInputs.cache
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.csproj.CopyComplete
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.dll
+C:\workspace\Sumi\file_study\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.pdb
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.dll
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.pdb
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\bin\Debug\Database.Group5.Data.dll.config
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\bin\Debug\Database.Group5.Data.dll
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\bin\Debug\Database.Group5.Data.pdb
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\P1\DB_Practice@HOME\Database.Group5.Data\obj\Debug\Database.Group5.Data.csproj.CopyComplete

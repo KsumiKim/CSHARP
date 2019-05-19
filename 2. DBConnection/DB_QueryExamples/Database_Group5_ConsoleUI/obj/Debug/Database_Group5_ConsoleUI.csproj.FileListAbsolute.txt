@@ -1,0 +1,15 @@
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\Database_Group5_ConsoleUI.exe.config
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\Database_Group5_ConsoleUI.exe
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\Database_Group5_ConsoleUI.pdb
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\obj\Debug\Database_Group5_ConsoleUI.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\obj\Debug\Database_Group5_ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\obj\Debug\Database_Group5_ConsoleUI.exe
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\obj\Debug\Database_Group5_ConsoleUI.pdb
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\Database.Group5.Data.dll
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\EntityFramework.dll
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\Database.Group5.Data.pdb
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\Database.Group5.Data.dll.config
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\EntityFramework.xml
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\obj\Debug\Database_Group5_ConsoleUI.csproj.CopyComplete
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kccistc\Desktop\김수미\5.9C# 평가\Database_Group5\Database_Group5_ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
