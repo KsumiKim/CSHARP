@@ -1,0 +1,10 @@
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\bin\Debug\MSDNTutorial.MathQuiz.exe.config
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\bin\Debug\MSDNTutorial.MathQuiz.exe
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\bin\Debug\MSDNTutorial.MathQuiz.pdb
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\obj\Debug\MSDNTutorial.MathQuiz.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\obj\Debug\MSDNTutorial.MathQuiz.Form1.resources
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\obj\Debug\MSDNTutorial.MathQuiz.Properties.Resources.resources
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\obj\Debug\MSDNTutorial.MathQuiz.csproj.GenerateResource.cache
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\obj\Debug\MSDNTutorial.MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\obj\Debug\MSDNTutorial.MathQuiz.exe
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.MathQuiz\obj\Debug\MSDNTutorial.MathQuiz.pdb

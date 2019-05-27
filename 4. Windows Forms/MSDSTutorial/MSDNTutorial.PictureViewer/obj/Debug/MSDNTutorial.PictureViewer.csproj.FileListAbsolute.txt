@@ -1,0 +1,10 @@
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\bin\Debug\MSDNTutorial.PictureViewer.exe.config
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\bin\Debug\MSDNTutorial.PictureViewer.exe
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\bin\Debug\MSDNTutorial.PictureViewer.pdb
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\obj\Debug\MSDNTutorial.PictureViewer.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\obj\Debug\MSDNTutorial.PictureViewer.Form1.resources
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\obj\Debug\MSDNTutorial.PictureViewer.Properties.Resources.resources
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\obj\Debug\MSDNTutorial.PictureViewer.csproj.GenerateResource.cache
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\obj\Debug\MSDNTutorial.PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\obj\Debug\MSDNTutorial.PictureViewer.exe
+C:\Users\kccistc\Desktop\김수미\C#_실습\MSDSTutorial\MSDNTutorial.PictureViewer\obj\Debug\MSDNTutorial.PictureViewer.pdb
