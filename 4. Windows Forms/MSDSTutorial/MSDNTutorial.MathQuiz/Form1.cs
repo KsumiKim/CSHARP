@@ -38,24 +38,34 @@ namespace MSDNTutorial.MathQuiz
 
             sum.Value = 0;
 
+
             minuend = randomizer.Next(1, 101);
-            subtrahend = randomizer.Next(1, minuend);
+            subtrahend = randomizer.Next(1, minuend); 
+            // 뒤에 숫자가 앞에 숫자보다 크면 - 값이 나오기 때문에 maxvalue를 minuend로 설정. 
+
+            // 더하기 연산과 그 로직이 같아 코드의 중복이다. 
             lblMinusLeft.Text = minuend.ToString();
             lblMinusRight.Text = subtrahend.ToString();
 
             difference.Value = 0;
 
+
             multiplecand = randomizer.Next(2, 11);
             multiplier = randomizer.Next(2, 11);
+
             lblTimesLeft.Text = multiplecand.ToString();
             lblTimesRight.Text = multiplier.ToString();
+
             product.Value = 0;
+
 
             divisor = randomizer.Next(2, 11);
             int temporaryQuotient = randomizer.Next(2, 11);
             dividend = divisor * temporaryQuotient;
+
             lblDividedLeft.Text = dividend.ToString();
             lblDividedRight.Text = divisor.ToString();
+
             quotient.Value = 0;
 
             timeLeft = 30;
@@ -85,6 +95,7 @@ namespace MSDNTutorial.MathQuiz
             btnStart.Enabled = false;
         }
 
+        // 설정한 interval에 한번씩 하기 메서드기 실행된다. 
         private void Timer_Tick(object sender, EventArgs e)
         {
             if (CheckTheAnswer())
@@ -111,16 +122,17 @@ namespace MSDNTutorial.MathQuiz
             }
         }
 
-        private void answer_Enter(object sender, EventArgs e)
-        {
-            NumericUpDown answerBox =
-                sender as NumericUpDown;
+        
+        private void Answer_Enter(object sender, EventArgs e)
+        {                           
+            NumericUpDown answerBox = sender as NumericUpDown;
 
-            if (answerBox != null)
-            {
-                int lengthOfAnswer = answerBox.Value.ToString().Length;
-                answerBox.Select(0, lengthOfAnswer);
-            }
+            if (answerBox == null)
+                return;
+
+             int lengthOfAnswer = answerBox.Value.ToString().Length;
+             answerBox.Select(0, lengthOfAnswer);
+            
         }
     }
 }
