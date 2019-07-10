@@ -1,0 +1,12 @@
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll.config
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\bin\Release\EntityFramework.dll
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\bin\Release\EntityFramework.SqlServer.dll
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\bin\Release\EntityFramework.xml
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\bin\Release\EntityFramework.SqlServer.xml
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\obj\Release\MyLibrary.csproj.CoreCompileInputs.cache
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\obj\Release\MyLibrary.csproj.CopyComplete
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+D:\sync\402R\sources\Chsarp\MyLibrary\MyLibrary\obj\Release\MyLibrary.csprojAssemblyReference.cache

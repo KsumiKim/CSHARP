@@ -1,0 +1,7 @@
+C:\git\file_study\Shutta\Shutta_MyTeam\Shutta_MyTeam\bin\Debug\Shutta_MyTeam.exe.config
+C:\git\file_study\Shutta\Shutta_MyTeam\Shutta_MyTeam\bin\Debug\Shutta_MyTeam.exe
+C:\git\file_study\Shutta\Shutta_MyTeam\Shutta_MyTeam\bin\Debug\Shutta_MyTeam.pdb
+C:\git\file_study\Shutta\Shutta_MyTeam\Shutta_MyTeam\obj\Debug\Shutta_MyTeam.csprojAssemblyReference.cache
+C:\git\file_study\Shutta\Shutta_MyTeam\Shutta_MyTeam\obj\Debug\Shutta_MyTeam.csproj.CoreCompileInputs.cache
+C:\git\file_study\Shutta\Shutta_MyTeam\Shutta_MyTeam\obj\Debug\Shutta_MyTeam.exe
+C:\git\file_study\Shutta\Shutta_MyTeam\Shutta_MyTeam\obj\Debug\Shutta_MyTeam.pdb
