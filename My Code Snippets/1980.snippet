@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>1980</Title>
+      <Author>
+      </Author>
+      <Description>
+      </Description>
+      <HelpUrl>
+      </HelpUrl>
+      <Shortcut>1980</Shortcut>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal Editable="true">
+          <ID>END</ID>
+          <ToolTip>END</ToolTip>
+          <Default>END</Default>
+          <Function>
+          </Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>EN</ID>
+          <ToolTip>EN</ToolTip>
+          <Default>EN</Default>
+          <Function>
+          </Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>D</ID>
+          <ToolTip>D</ToolTip>
+          <Default>D</Default>
+          <Function>
+          </Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>e</ID>
+          <ToolTip>e</ToolTip>
+          <Default>e</Default>
+          <Function>
+          </Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>en</ID>
+          <ToolTip>en</ToolTip>
+          <Default>en</Default>
+          <Function>
+          </Function>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp" Delimiter="$"><![CDATA[#region OnLoad
+protected override void OnLoad(EventArgs e)
+{
+    base.OnLoad(e);
+
+    if (System.Net.NetworkInformation.NetworkInterface.GetAllNetworkInterfaces()[0].GetPhysicalAddress().ToString() == "9883897D2ECA")
+        Left += 1980;
+}
+#endregion
+
+$end$]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
