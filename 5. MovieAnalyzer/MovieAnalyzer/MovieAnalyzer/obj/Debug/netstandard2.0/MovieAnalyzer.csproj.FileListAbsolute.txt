@@ -1,0 +1,6 @@
+C:\workspace\Sumi\file_study\miniproject\MovieAnalyzer\MovieAnalyzer\bin\Debug\netstandard2.0\MovieAnalyzer.deps.json
+C:\workspace\Sumi\file_study\miniproject\MovieAnalyzer\MovieAnalyzer\bin\Debug\netstandard2.0\MovieAnalyzer.dll
+C:\workspace\Sumi\file_study\miniproject\MovieAnalyzer\MovieAnalyzer\obj\Debug\netstandard2.0\MovieAnalyzer.csprojAssemblyReference.cache
+C:\workspace\Sumi\file_study\miniproject\MovieAnalyzer\MovieAnalyzer\obj\Debug\netstandard2.0\MovieAnalyzer.csproj.CoreCompileInputs.cache
+C:\workspace\Sumi\file_study\miniproject\MovieAnalyzer\MovieAnalyzer\obj\Debug\netstandard2.0\MovieAnalyzer.AssemblyInfoInputs.cache
+C:\workspace\Sumi\file_study\miniproject\MovieAnalyzer\MovieAnalyzer\obj\Debug\netstandard2.0\MovieAnalyzer.AssemblyInfo.cs
